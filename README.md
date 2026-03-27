@@ -9,7 +9,6 @@
 
 * 🎓 Pursuing MCA (2026)
 * 💼 Working at Arcgate as Research Analyst
-* 📚 Preparing for SSC CGL
 * 🔐 Interested in Cybersecurity
 * 💡 Learning programming step by step
 
