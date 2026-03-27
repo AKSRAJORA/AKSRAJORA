@@ -25,8 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AKSRAJORA\&show_icons=true\&theme=tokyonight)
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKSRAJORA&show_icons=true&theme=tokyonight)
 
 ---
 
