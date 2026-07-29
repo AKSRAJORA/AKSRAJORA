@@ -90,16 +90,6 @@
 
 ---
 
-### 🌐 4. Scalable Full-Stack Enterprise Systems
-* **✨ Features:**
-  * 🔒 **Role-Based Access Control (RBAC):** Secure authorization workflows using JWT token authentication.
-  * 📊 **Dynamic Data Processing:** Asynchronous API pipelines connecting rich client frontends to complex server endpoints.
-  * 🗄️ **Relational & NoSQL Integration:** Optimized database schema designs utilizing PostgreSQL, MongoDB, and MySQL.
-* **💡 Innovation & Dedication:**
-  * Bridges backend efficiency (**Django REST Framework & Node.js/Express**) with dynamic, reactive single-page frontends (**Angular**), providing smooth enterprise user workflows.
-
----
-
 ## 📊 GitHub Analytics & Consistency
 
 <p align="center">
